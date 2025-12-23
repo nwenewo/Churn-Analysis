@@ -72,7 +72,17 @@ Churn is highest within the first 12 months of tenure.
 Recommendation: Implement a specialized "New Customer Onboarding" program to engage users early.
 
 📸 Dashboard Screenshots
-(Upload your screenshots here: 1. Overview Page, 2. Demographics Page, 3. Service Detail Page)
+
+![Dashboard Overview](screenshots/churn1.png)
+
+![Dashboard Overview](screenshots/churn2.png)
+
+![Dashboard Overview](screenshots/churn3.png)
+
+![Dashboard Overview](screenshots/churn4.png)
+
+![Dashboard Overview](screenshots/churn5.png)
+2. , 2. Demographics Page, 3. Service Detail Page)
 
 🚀 Conclusion
 This analysis provides a clear roadmap for reducing churn. By targeting month-to-month Fiber Optic users with better contract offers and fixing the friction in Electronic Check payments, the company could potentially save $139.13k annually.
