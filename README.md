@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis
+# Customer Churn Analysis for Austyno Communications
 
 📌 Project Overview
 
@@ -8,7 +8,7 @@ Live Dashboard: [Click here to view the live dashboard](https://app.powerbi.com/
 
 ❓ Problem Statement
 
-The company is facing a 26.5% churn rate, resulting in significant revenue loss. The goal of this analysis is to:
+This company is facing a 26.5% churn rate, resulting in significant revenue loss. The goal of this analysis is to:
 
 - Identify the key demographics and behaviors of customers who churn.
 
@@ -66,7 +66,7 @@ Recommendation: Investigate service quality (outages, speed) for Fiber users imm
 
 Recommendation: Encourage automatic payments (Credit Card/Bank Transfer) by highlighting convenience and reliability.
 
-4. The First Year "Danger Zone"
+4. The First Year "Danger Zone."
 Churn is highest within the first 12 months of tenure.
 
 Recommendation: Implement a specialized "New Customer Onboarding" program to engage users early.
