@@ -47,7 +47,7 @@ The dataset contains 7,043 records with 21 attributes, including:
 - Key measures created for the dashboard:
 - Churn Rate % = DIVIDE([Churn Count], [Total Customers])
 - Monthly Revenue Loss = CALCULATE(SUM(MonthlyCharges), Churn="Yes")
-- Avg Churn Risk Score = AVERAGE(Churn Risk Score)
+- Avg Churn Risk Score = AVERAGE(Churn Risk Score) etc
 
 💡 Key Insights
 
