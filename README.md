@@ -82,7 +82,7 @@ Recommendation: Implement a specialized "New Customer Onboarding" program to eng
 ![Dashboard Overview](screenshots/churn4.png)
 
 ![Dashboard Overview](screenshots/churn5.png)
-2. , 2. Demographics Page, 3. Service Detail Page)
 
 🚀 Conclusion
+
 This analysis provides a clear roadmap for reducing churn. By targeting month-to-month Fiber Optic users with better contract offers and fixing the friction in Electronic Check payments, the company could potentially save $139.13k annually.
